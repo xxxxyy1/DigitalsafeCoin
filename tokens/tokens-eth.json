@@ -3168,7 +3168,39 @@
   "twitter"   : "",
   "youtube"   : ""
 }
-},{
+}, {
+"symbol"      : "DSC",
+"address"     : "0x1e09BD8Cadb441632e441Db3e1D79909EE0A2256",
+"decimals"    : "1",
+"name"        : "Digital Safe Coin",
+"ens_address" : "",
+"website"     : "https://digitalsafecoin.com",
+"logo": {
+  "src"       : "",
+  "width"     : "",
+  "height"    : "",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "ico@digitalsafecoin.com",
+  "url"       : "https://digitalsafecoin.com",
+},
+"social": {
+  "blog"      : "",
+  "chat"      : "",
+  "facebook"  : "",
+  "forum"     : "",
+  "github"    : "",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "",
+  "reddit"    : "",
+  "slack"     : "",
+  "telegram"  : "",
+  "twitter"   : "",
+  "youtube"   : ""
+}
+ ,{
 "symbol"      : "DIVX",
 "address"     : "0x13f11C9905A08ca76e3e853bE63D4f0944326C72",
 "decimals"    : "18",
